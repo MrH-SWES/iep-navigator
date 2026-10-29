@@ -1,0 +1,200 @@
+[
+  {
+    "field": "F0007",
+    "marker": "ZZMAP0004ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter contact title]"
+  },
+  {
+    "field": "F0039",
+    "marker": "ZZMAP0006ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter alternate attendance: other (text)]"
+  },
+  {
+    "field": "F0043",
+    "marker": "ZZMAP0007ZZ",
+    "issue": "residual marker visible on page 4"
+  },
+  {
+    "field": "F0044",
+    "marker": "ZZMAP0008ZZ",
+    "issue": "residual marker visible on page 4"
+  },
+  {
+    "field": "F0046",
+    "marker": "ZZMAP0009ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter position (administrator/designee row)]"
+  },
+  {
+    "field": "F0047",
+    "marker": "ZZMAP0010ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter agency (administrator/designee row)]"
+  },
+  {
+    "field": "F0050",
+    "marker": "ZZMAP0011ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter excusal reason (administrator/designee r]"
+  },
+  {
+    "field": "F0053",
+    "marker": "ZZMAP0012ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter method of prearranged agreement (adminis]"
+  },
+  {
+    "field": "F0054",
+    "marker": "ZZMAP0013ZZ",
+    "issue": "residual marker visible on page 4"
+  },
+  {
+    "field": "F0055",
+    "marker": "ZZMAP0014ZZ",
+    "issue": "residual marker visible on page 4"
+  },
+  {
+    "field": "F0056",
+    "marker": "ZZMAP0015ZZ",
+    "issue": "residual marker visible on page 4"
+  },
+  {
+    "field": "F0057",
+    "marker": "ZZMAP0016ZZ",
+    "issue": "residual marker visible on page 4"
+  },
+  {
+    "field": "F0157",
+    "marker": "ZZMAP0066ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Other daily living skill]"
+  },
+  {
+    "field": "F0161",
+    "marker": "ZZMAP0071ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Other graduation-related item]"
+  },
+  {
+    "field": "F0167",
+    "marker": "ZZMAP0070ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Other state requirement]"
+  },
+  {
+    "field": "F0214",
+    "marker": "ZZMAP0080ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Completed By]"
+  },
+  {
+    "field": "F0215",
+    "marker": "ZZMAP0081ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Title]"
+  },
+  {
+    "field": "F0218",
+    "marker": "ZZMAP0082ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Student's Preferred Name]"
+  },
+  {
+    "field": "F0219",
+    "marker": "ZZMAP0083ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Preferred Contact Method]"
+  },
+  {
+    "field": "F0224",
+    "marker": "ZZMAP0084ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Student's Other Contact]"
+  },
+  {
+    "field": "F0226",
+    "marker": "ZZMAP0085ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Social Media Name]"
+  },
+  {
+    "field": "F0227",
+    "marker": "ZZMAP0086ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Description]"
+  },
+  {
+    "field": "F0228",
+    "marker": "ZZMAP0087ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Description]"
+  },
+  {
+    "field": "F0229",
+    "marker": "ZZMAP0088ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Present Levels of Performance]"
+  },
+  {
+    "field": "F0230",
+    "marker": "ZZMAP0089ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Description]"
+  },
+  {
+    "field": "F0231",
+    "marker": "ZZMAP0090ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Present Levels of Performance]"
+  },
+  {
+    "field": "F0232",
+    "marker": "ZZMAP0091ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Description]"
+  },
+  {
+    "field": "F0233",
+    "marker": "ZZMAP0092ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Present Levels of Performance]"
+  },
+  {
+    "field": "F0234",
+    "marker": "ZZMAP0093ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Present Levels of Performance]"
+  },
+  {
+    "field": "F0244",
+    "marker": "ZZMAP0094ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Goal skill]"
+  },
+  {
+    "field": "F0255",
+    "marker": "ZZMAP0101ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter goal progress reporting: other (text)]"
+  },
+  {
+    "field": "F0378",
+    "marker": "ZZMAP0126ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter reason]"
+  },
+  {
+    "field": "F0385",
+    "marker": "ZZMAP0118ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter contact first name]"
+  },
+  {
+    "field": "F0386",
+    "marker": "ZZMAP0119ZZ",
+    "issue": "no verified printed occurrence",
+    "expected": "[Enter contact last name]"
+  }
+]
